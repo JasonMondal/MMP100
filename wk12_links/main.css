@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two|Orbitron');
+
+body{
+	background-color: aqua;
+	font-family: 'Lobster Two', cursive;
+
+}
+h1{
+	font-family: 'Orbitron', sans-serif;
+}
